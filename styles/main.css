@@ -1,0 +1,66 @@
+* {
+
+}
+
+
+body {
+  height: 100%;
+  background-color: #76eec6;
+}
+
+.top {
+  background-color: azure;
+  height: 75px;
+  padding: 1px;
+}
+
+h1  {
+  color: #fff;
+  box-shadow: 0 0 0 10;
+  style="text-decoration: none"><font color=#ff0000>C</font><font color=#ef2f0f>o</font><font color=#df5d1f>l</font><font color=#cf872f>o</font><font color=#bfad3f>r</font><font color=#afcd4f>s</font><font color=#8ff66f>i</font><font color=#7ffe7f>n</font> <font color=#5ff39f>M</font>
+}
+
+.container {
+  width: 925px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  font-size: 24px;
+  text-align: center;
+
+}
+
+.box {
+  position: relative;
+  z-index: 1;
+  float: left;
+  height: 150px;
+  width: 150px;
+  /*background-color: #444;*/
+  background-color: azure;
+  box-shadow: none;
+}
+
+:focus {
+	outline: 0;
+
+
+.clear {
+  clear:both;
+}
+
+
+
+  #footer .copyright {
+    text-align: center;
+    color: rgba(128, 128, 128, 0.75);
+    font-size: 0.8em;
+    cursor: crosshair;
+  }
+
+    #footer .copyright a {
+      color: rgba(128, 128, 128, 0.75);
+    }
+
+      #footer .copyright a:hover {
+        color: rgba(212, 212, 212, 0.85);
+      }
